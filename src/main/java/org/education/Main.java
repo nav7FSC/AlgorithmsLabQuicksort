@@ -98,7 +98,7 @@ public class Main {
 
     public static void main(String[] args) {
         // Part 5: Testing with an unsorted array
-        int[] arr = {10, 80, 30, 90, 40, 50, 70};
+        int[] arr = {10, 80, 35, 95, 40, 50, 75, 85};
         System.out.println("Unsorted array:");
         showArray(arr);
 
